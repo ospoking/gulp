@@ -6,6 +6,7 @@
 </p>
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Azure Pipelines Build Status][azure-pipelines-image]][azure-pipelines-url] [![Build Status][travis-image]][travis-url] [![AppVeyor Build Status][appveyor-image]][appveyor-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![OpenCollective Backers][backer-badge]][backer-url] [![OpenCollective Sponsors][sponsor-badge]][sponsor-url] [![Gitter chat][gitter-image]][gitter-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fospoking%2Fgulp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fospoking%2Fgulp?ref=badge_shield)
 
 
 ## What is gulp?
@@ -290,3 +291,7 @@ Become a sponsor to get your logo on our README on Github.
 [quick-start]: https://gulpjs.com/docs/en/getting-started/quick-start
 [getting-started-guide]: https://gulpjs.com/docs/en/getting-started/quick-start
 [api-docs]: https://gulpjs.com/docs/en/api/concepts
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fospoking%2Fgulp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fospoking%2Fgulp?ref=badge_large)
